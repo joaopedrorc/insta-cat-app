@@ -9,9 +9,9 @@
 </p>
 <br />
 
-
-<img alt="Screen shot" title="#screen" src="./app.png" heigth='500' align='center'>
-
+<p align="center">
+    <img alt="Screen shot" title="#screen" src="./app.png" height='500' align='center'>
+</>
 
 
 
@@ -31,10 +31,11 @@
 ## 💻 Demonstration
 ### 📱Screens
 
-<img alt="screen-recording" title="#page1" src="./screen-recording.gif" height="700px" align="center"/>
+<p align='center'>
+    <img alt="screen-recording" title="#page1" src="./screen-recording.gif" height="700px" align="center"/>
+</p>
 
-
-## Develop
+## Development
 
 ## Pre-requisities
 - [Node.js](https://nodejs.org/en/)
@@ -47,13 +48,13 @@
 
 ## Install the command line tools
 
-$ npm install --g expo-cli
+` npm install --g expo-cli `
 
 ## Clone this repository
-$ git clone https://github.com/5626pedro/insta-cat-app
+` git clone https://github.com/5626pedro/insta-cat-app `
 
 ## Go into the repository
-$ cd insta-cat-app
+` cd insta-cat-app `
 
 
 ## Start the local development server of Expo CLI
