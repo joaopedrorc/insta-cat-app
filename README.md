@@ -48,18 +48,18 @@
 
 ## Install the command line tools
 
-` npm install --g expo-cli `
+` $ npm install --g expo-cli `
 
 ## Clone this repository
-` git clone https://github.com/5626pedro/insta-cat-app `
+` $ git clone https://github.com/5626pedro/insta-cat-app `
 
 ## Go into the repository
-` cd insta-cat-app `
+` $ cd insta-cat-app `
 
 
 ## Start the local development server of Expo CLI
 
-`expo start`
+`$ expo start`
 
 
 # iOS Simulator
