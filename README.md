@@ -67,7 +67,7 @@ Step 1: Install Xcode
 
 Step 2: Install Xcode Command Line Tools
 
-Step 3: Run on iOS simulator from the browser-based DevTools UI
+Step 3: "Run on iOS simulator" from the browser-based DevTools UI
 
 [Official Guide](https://docs.expo.io/workflow/ios-simulator/)
 
@@ -77,5 +77,8 @@ Step 3: Run on iOS simulator from the browser-based DevTools UI
 Step 1: Set up Android Studio's tools
 
 Step 2: Set up a virtual device
+
+Step 3: "Run on Android device/emulator" from the browser-based DevTools UI
+
 
 [Official Guide](https://docs.expo.io/workflow/android-studio-emulator/)
